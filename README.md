@@ -25,3 +25,6 @@ A list of losers in the mc com
 ## Quantam
 * Fluid dev.
 * Asked for permission to use my mixin base (before i added a license) when they already used it and got caught skidding it LOL.
+
+## Dani (danipro_2007)
+* When i was still learning java, this guy had the balls to copy and paste my main menu snippet, changed the wallpaper, then posted it without giving credit.
