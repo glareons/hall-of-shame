@@ -7,10 +7,7 @@ A list of losers in the mc com
 * Used to have a code support server, but now is a house of lies, spoonfed and brainwashed by X, CBN, CNN, and similar, They are merely pawns for the middle world to take over the west.
 
 ## Nya
-* Acting like everyones the underdog while doing things so dumb it needs its own category.
-* Made "legit" bypasses that were actually just spamming random and mitigated anyway.
-* Gave Demise dev the most retarded suggestion which would "help" bypass intave.
-* Made a "performance enhancer" that just called "gc" TWICE every 30 seconds.
+* performance enhancer (double GC call lag bypass $$$)
 
 ## TheAdam
 * Exploited a vulnerability someone else found and used it on a popular YouTubers server just to be popular LOL.
